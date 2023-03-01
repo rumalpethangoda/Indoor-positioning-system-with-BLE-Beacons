@@ -1,1 +1,1 @@
-# Indoor-Positioning-system-with-BLE-beacons-using-triangulation
+# Indoor Positioning system with BLE beacons using triangulation
